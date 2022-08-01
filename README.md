@@ -1,0 +1,2 @@
+# auto_premint_register
+使用selenium对premint进行自动注册
